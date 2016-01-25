@@ -1,0 +1,9 @@
+File:
+  allowed_extensions:
+    - 'xml'
+MimeUploadValidator:
+  MimeTypes:
+    rdf:
+      - 'application/rdf+xml'
+    xml:
+      - 'application/xml'

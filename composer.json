@@ -1,0 +1,28 @@
+{
+    "name": "textagroup/ss-rdf-to-dataobject",
+    "description": "Takes A RDF file and loads the data into a DataObject",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "Resource Description Framework",
+        "RDF",
+        "metadata",
+        "Semantic Web",
+        "Linked Data"
+    ],
+    "require": {
+        "silverstripe/cms": "3.*",
+        "easyrdf/easyrdf": "0.9.1"
+    },
+    "support": {
+        "issues": "https://github.com/textagroup/ss-rdf-to-dataobject/issues"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Kirk Mayo",
+            "email": "kirk.mayo@solnet.co.nz"
+        }
+    ],
+    "minimum-stability": "dev"
+}
