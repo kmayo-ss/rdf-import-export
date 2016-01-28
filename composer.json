@@ -1,5 +1,5 @@
 {
-    "name": "textagroup/ss-rdf-to-dataobject",
+    "name": "textagroup/rdf-import-export",
     "description": "Takes A RDF file and loads the data into a DataObject",
     "type": "silverstripe-module",
     "keywords": [
@@ -15,7 +15,7 @@
         "easyrdf/easyrdf": "0.9.1"
     },
     "support": {
-        "issues": "https://github.com/textagroup/ss-rdf-to-dataobject/issues"
+        "issues": "https://github.com/textagroup/rdf-import-export/issues"
     },
     "license": "BSD-3-Clause",
     "authors": [
