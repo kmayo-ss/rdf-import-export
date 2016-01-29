@@ -55,13 +55,3 @@ Debug::Dump($ret); exit;
         $this->ProcessFile = null;
     }
 }
-
-class RDFDateFileUploadAdmin extends ModelAdmin {
-    private static $managed_models = array(
-        'RDFDataFileUpload'
-    );
-
-    private static $url_segment = 'rdf';
-
-    private static $menu_title = 'RDF Upload Admin';
-}
